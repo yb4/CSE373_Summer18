@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move source folder &apos;java&apos; to &apos;project1-yashb4-jiday&apos;&#x0D;&#x0A;- Original project: &apos;project1-yashb4-jiday&apos;&#x0D;&#x0A;- Destination element: &apos;project1-yashb4-jiday&apos;&#x0D;&#x0A;- Original element: &apos;project1-yashb4-jiday/src/main/java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move source folder" destination="=project1-yashb4-jiday" element1="/src\/main\/java" flags="6" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveRoots" roots="1" stamp="1531520201221" version="1.0"/>
+</session>

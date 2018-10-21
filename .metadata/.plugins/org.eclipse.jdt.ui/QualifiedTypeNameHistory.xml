@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="misc.exceptions.NoSuchKeyException"/>
+    <fullyQualifiedTypeName name="java.util.NoSuchElementException"/>
+    <fullyQualifiedTypeName name="misc.exceptions.EmptyContainerException"/>
+    <fullyQualifiedTypeName name="java.util.PriorityQueue"/>
+    <fullyQualifiedTypeName name="datastructures.interfaces.IDictionary"/>
+    <fullyQualifiedTypeName name="datastructures.concrete.ChainedHashSet"/>
+    <fullyQualifiedTypeName name="datastructures.concrete.dictionaries.ChainedHashDictionary"/>
+    <fullyQualifiedTypeName name="misc.Searcher"/>
+    <fullyQualifiedTypeName name="datastructures.interfaces.IDisjointSet"/>
+    <fullyQualifiedTypeName name="datastructures.concrete.KVPair"/>
+    <fullyQualifiedTypeName name="datastructures.concrete.ArrayDisjointSet"/>
+</qualifiedTypeNameHistroy>
